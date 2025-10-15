@@ -1,4 +1,4 @@
- Banco de Dados 🗄️
+ Banco de Dados 
 
 Este repositório contém um projeto simples em **PHP**, **HTML** e **CSS**, desenvolvido com o objetivo de praticar a conexão com banco de dados e as operações básicas de um **CRUD** — *Create, Read, Update e Delete*.
 
